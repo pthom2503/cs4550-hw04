@@ -2,7 +2,6 @@ server {
     listen 80;
     listen [::]:80;
 
-    # TODO: This should be your server name.
     server_name www.hw04.dialnerd.me hw04.dialnerd.me;
 
     location / {
