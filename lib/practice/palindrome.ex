@@ -1,7 +1,7 @@
 defmodule Practice.Palindrome do
-  
+ # still a palindrome even if casing doesn't match 
   def palindrome?(x) do
-    x === reverse_chars(x)
+    String.downcase(x) === String.downcase(reverse_chars(x))
   end
 
 #word reverse function gotten from in class code

@@ -3,7 +3,7 @@ server {
     listen [::]:80;
 
     # TODO: This should be your server name.
-    server_name practice.ironbeard.com;
+    server_name www.hw04.dialnerd.me hw04.dialnerd.me;
 
     location / {
         proxy_pass http://localhost:4790;
