@@ -1,0 +1,36 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Patricia Thompson
+
+2. What hostname did you deploy your app to?
+dialnerd.me
+(hw04.dialnerd.me)
+
+3. What's the URL of your git for this assignment?
+https://github.com/pthom2503/cs4550-hw04
+
+4. How much of the functionality did you complete?
+All of it
+
+5. Did you successfully deploy? If not, what's broken?
+Yes
+
+6. How comfortable do you feel with Elixir now?
+Reasonably comfortable that I can mimic this framework, not as comfortable with the language itself
+
+7. Which parts of this assignment did you have trouble with, if any?
+It's been a while since I had to do functional programming, so doing recursive algorithms took me much longer than anything else
+
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
